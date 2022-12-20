@@ -14,8 +14,8 @@ let finalPosition = 0
 const PORT = process.env.PORT || 5000;
 
 var corsOptions = {
-    // origin: 'https://wheel-spinner-44gn.onrender.com',
-    origin: 'http://localhost:5000',
+    origin: 'https://wheel-spinner-44gn.onrender.com',
+    // origin: 'http://localhost:3000',
     credentials: true
 }
 
